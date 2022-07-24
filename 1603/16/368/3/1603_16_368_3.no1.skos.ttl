@@ -1,7 +1,6 @@
 PREFIX owl: <http://www.w3.org/2002/07/owl#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
-PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
 
 <urn:mdciii:1603:16:368()>
     a skos:Collection ;
@@ -22,7 +21,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "العامرية"@ara-Arab ,
         "Al-Amirya"@eng-Latn ;
-    wdata:q7200235 "IQG01Q01N01" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -337,7 +335,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "العظيم"@ara-Arab ,
         "Al-Atheem"@eng-Latn ;
-    wdata:q7200235 "IQG10Q01N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:100102>
@@ -348,7 +345,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "المنصورية"@ara-Arab ,
         "Al-Mansouriyah"@eng-Latn ;
-    wdata:q7200235 "IQG10Q01N02" ;
 .
 
 <urn:mdciii:1603:16:368:3:100103>
@@ -359,7 +355,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "هبهب"@ara-Arab ,
         "Hibhib"@eng-Latn ;
-    wdata:q7200235 "IQG10Q01N03" ;
 .
 
 <urn:mdciii:1603:16:368:3:100104>
@@ -370,7 +365,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "مركز الخالص"@ara-Arab ,
         "Markaz Al-Khalis"@eng-Latn ;
-    wdata:q7200235 "IQG10Q01N04" ;
 .
 
 <urn:mdciii:1603:16:368:3:100105>
@@ -381,7 +375,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "قلعة انصاب"@ara-Arab ,
         "Qalaa't Ansab"@eng-Latn ;
-    wdata:q7200235 "IQG10Q01N05" ;
 .
 
 <urn:mdciii:1603:16:368:3:100201>
@@ -392,7 +385,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "الوجيهية"@ara-Arab ,
         "Al-Wajihia"@eng-Latn ;
-    wdata:q7200235 "IQG10Q02N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:100202>
@@ -403,7 +395,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "مركز المقدادية"@ara-Arab ,
         "Markaz Al-Muqdadiya"@eng-Latn ;
-    wdata:q7200235 "IQG10Q02N02" ;
 .
 
 <urn:mdciii:1603:16:368:3:100301>
@@ -414,7 +405,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "مندلي"@ara-Arab ,
         "Mandali"@eng-Latn ;
-    wdata:q7200235 "IQG10Q03N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:100302>
@@ -425,7 +415,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "مركز بلدروز"@ara-Arab ,
         "Markaz Baladruz"@eng-Latn ;
-    wdata:q7200235 "IQG10Q03N02" ;
 .
 
 <urn:mdciii:1603:16:368:3:100303>
@@ -436,7 +425,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "قزانية"@ara-Arab ,
         "Qazanya"@eng-Latn ;
-    wdata:q7200235 "IQG10Q03N03" ;
 .
 
 <urn:mdciii:1603:16:368:3:100401>
@@ -447,7 +435,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "بهرز"@ara-Arab ,
         "Buhriz"@eng-Latn ;
-    wdata:q7200235 "IQG10Q04N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:100402>
@@ -458,7 +445,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "بني سعد"@ara-Arab ,
         "Beni Saad"@eng-Latn ;
-    wdata:q7200235 "IQG10Q04N02" ;
 .
 
 <urn:mdciii:1603:16:368:3:100403>
@@ -469,7 +455,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "كنعان"@ara-Arab ,
         "Kanan"@eng-Latn ;
-    wdata:q7200235 "IQG10Q04N03" ;
 .
 
 <urn:mdciii:1603:16:368:3:100501>
@@ -480,7 +465,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "السعدية"@ara-Arab ,
         "Al-Saadiya"@eng-Latn ;
-    wdata:q7200235 "IQG10Q05N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:100502>
@@ -491,7 +475,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "مركز خانقين"@ara-Arab ,
         "Markaz Khanaqin"@eng-Latn ;
-    wdata:q7200235 "IQG10Q05N02" ;
 .
 
 <urn:mdciii:1603:16:368:3:100503>
@@ -502,7 +485,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "ميدان"@ara-Arab ,
         "Midan"@eng-Latn ;
-    wdata:q7200235 "IQG10Q05N03" ;
 .
 
 <urn:mdciii:1603:16:368:3:100504>
@@ -513,7 +495,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "جلولاء"@ara-Arab ,
         "Jalawla"@eng-Latn ;
-    wdata:q7200235 "IQG10Q05N04" ;
 .
 
 <urn:mdciii:1603:16:368:3:100505>
@@ -524,7 +505,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "قرة تو"@ara-Arab ,
         "Qaratu"@eng-Latn ;
-    wdata:q7200235 "IQG10Q05N05" ;
 .
 
 <urn:mdciii:1603:16:368:3:100601>
@@ -535,7 +515,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "جبارة"@ara-Arab ,
         "Jabarra"@eng-Latn ;
-    wdata:q7200235 "IQG10Q06N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:100602>
@@ -546,7 +525,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "مركز كفري"@ara-Arab ,
         "Markaz Kifri"@eng-Latn ;
-    wdata:q7200235 "IQG10Q06N02" ;
 .
 
 <urn:mdciii:1603:16:368:3:100603>
@@ -557,7 +535,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "قرة تبة"@ara-Arab ,
         "Qara Tabe"@eng-Latn ;
-    wdata:q7200235 "IQG10Q06N03" ;
 .
 
 <urn:mdciii:1603:16:368:3:10102>
@@ -568,7 +545,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "الكرمة"@ara-Arab ,
         "Al-Garma"@eng-Latn ;
-    wdata:q7200235 "IQG01Q01N02" ;
 .
 
 <urn:mdciii:1603:16:368:3:10103>
@@ -579,7 +555,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "مركز الفلوجة"@ara-Arab ,
         "Markaz Al-Falluja"@eng-Latn ;
-    wdata:q7200235 "IQG01Q01N03" ;
 .
 
 <urn:mdciii:1603:16:368:3:10201>
@@ -590,7 +565,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "الكرابلة"@ara-Arab ,
         "Al-Karabla"@eng-Latn ;
-    wdata:q7200235 "IQG01Q02N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:10202>
@@ -601,7 +575,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "العبيدي"@ara-Arab ,
         "Al-Obiadi"@eng-Latn ;
-    wdata:q7200235 "IQG01Q02N02" ;
 .
 
 <urn:mdciii:1603:16:368:3:10203>
@@ -612,7 +585,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "الرمانة"@ara-Arab ,
         "Al-Rummaneh"@eng-Latn ;
-    wdata:q7200235 "IQG01Q02N03" ;
 .
 
 <urn:mdciii:1603:16:368:3:10301>
@@ -623,7 +595,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "الحبانية"@ara-Arab ,
         "Al-Habbaniya"@eng-Latn ;
-    wdata:q7200235 "IQG01Q03N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:10302>
@@ -634,7 +605,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "الرحالية"@ara-Arab ,
         "Al-Rahhaliya"@eng-Latn ;
-    wdata:q7200235 "IQG01Q03N02" ;
 .
 
 <urn:mdciii:1603:16:368:3:10303>
@@ -645,7 +615,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "مركز الرمادي"@ara-Arab ,
         "Markaz Al-Ramadi"@eng-Latn ;
-    wdata:q7200235 "IQG01Q03N03" ;
 .
 
 <urn:mdciii:1603:16:368:3:10401>
@@ -656,7 +625,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "النخيب"@ara-Arab ,
         "Al-Nekhaeeb"@eng-Latn ;
-    wdata:q7200235 "IQG01Q04N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:10402>
@@ -667,7 +635,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "الوليد"@ara-Arab ,
         "Al-Walid"@eng-Latn ;
-    wdata:q7200235 "IQG01Q04N02" ;
 .
 
 <urn:mdciii:1603:16:368:3:10403>
@@ -678,7 +645,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "مركز الرطبة"@ara-Arab ,
         "Markaz Al-Rutba"@eng-Latn ;
-    wdata:q7200235 "IQG01Q04N03" ;
 .
 
 <urn:mdciii:1603:16:368:3:10501>
@@ -689,7 +655,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "مركز عنه"@ara-Arab ,
         "Markaz Ana"@eng-Latn ;
-    wdata:q7200235 "IQG01Q05N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:10502>
@@ -700,7 +665,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "راوه"@ara-Arab ,
         "Rawa"@eng-Latn ;
-    wdata:q7200235 "IQG01Q05N02" ;
 .
 
 <urn:mdciii:1603:16:368:3:10601>
@@ -711,7 +675,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "الحقلانية"@ara-Arab ,
         "Al-Haqlaniya"@eng-Latn ;
-    wdata:q7200235 "IQG01Q06N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:10602>
@@ -722,7 +685,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "بروانه"@ara-Arab ,
         "Barwana"@eng-Latn ;
-    wdata:q7200235 "IQG01Q06N02" ;
 .
 
 <urn:mdciii:1603:16:368:3:10701>
@@ -733,7 +695,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "البغدادي"@ara-Arab ,
         "Al-Baghdady"@eng-Latn ;
-    wdata:q7200235 "IQG01Q07N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:10702>
@@ -744,7 +705,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "الفرات"@ara-Arab ,
         "Al-Forat"@eng-Latn ;
-    wdata:q7200235 "IQG01Q07N02" ;
 .
 
 <urn:mdciii:1603:16:368:3:10703>
@@ -755,7 +715,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "كبيسة"@ara-Arab ,
         "Kubaisa"@eng-Latn ;
-    wdata:q7200235 "IQG01Q07N03" ;
 .
 
 <urn:mdciii:1603:16:368:3:10704>
@@ -766,7 +725,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "مركز هيت"@ara-Arab ,
         "Markaz Heet"@eng-Latn ;
-    wdata:q7200235 "IQG01Q07N04" ;
 .
 
 <urn:mdciii:1603:16:368:3:110101>
@@ -777,7 +735,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "بارزان"@ara-Arab ,
         "Barzan"@eng-Latn ;
-    wdata:q7200235 "IQG11Q01N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:110102>
@@ -788,7 +745,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "مزوري بالا"@ara-Arab ,
         "Mazouri Bala"@eng-Latn ;
-    wdata:q7200235 "IQG11Q01N02" ;
 .
 
 <urn:mdciii:1603:16:368:3:110201>
@@ -799,7 +755,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "قوش تبه"@ara-Arab ,
         "Qushtappa"@eng-Latn ;
-    wdata:q7200235 "IQG11Q02N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:110202>
@@ -810,7 +765,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "مركز اربيل"@ara-Arab ,
         "Markaz Erbil"@eng-Latn ;
-    wdata:q7200235 "IQG11Q02N02" ;
 .
 
 <urn:mdciii:1603:16:368:3:110301>
@@ -821,7 +775,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "طق طق"@ara-Arab ,
         "Taq Taq"@eng-Latn ;
-    wdata:q7200235 "IQG11Q03N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:110302>
@@ -832,7 +785,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "سورش"@ara-Arab ,
         "Shorsh"@eng-Latn ;
-    wdata:q7200235 "IQG11Q03N02" ;
 .
 
 <urn:mdciii:1603:16:368:3:110303>
@@ -843,7 +795,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "مركز كويسنجق"@ara-Arab ,
         "Markaz Koysinjaq"@eng-Latn ;
-    wdata:q7200235 "IQG11Q03N03" ;
 .
 
 <urn:mdciii:1603:16:368:3:110401>
@@ -854,7 +805,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "القرج"@ara-Arab ,
         "Qaraj"@eng-Latn ;
-    wdata:q7200235 "IQG11Q04N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:110402>
@@ -865,7 +815,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "مركز مخمور"@ara-Arab ,
         "Markaz Makhmour"@eng-Latn ;
-    wdata:q7200235 "IQG11Q04N02" ;
 .
 
 <urn:mdciii:1603:16:368:3:110403>
@@ -876,7 +825,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "ديبكة"@ara-Arab ,
         "Dibaga"@eng-Latn ;
-    wdata:q7200235 "IQG11Q04N03" ;
 .
 
 <urn:mdciii:1603:16:368:3:110404>
@@ -887,7 +835,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "الكوير"@ara-Arab ,
         "Gwyer"@eng-Latn ;
-    wdata:q7200235 "IQG11Q04N04" ;
 .
 
 <urn:mdciii:1603:16:368:3:110501>
@@ -898,7 +845,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "مركز راوندوز"@ara-Arab ,
         "Markaz Rawanduz"@eng-Latn ;
-    wdata:q7200235 "IQG11Q05N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:110502>
@@ -909,7 +855,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "ديانا"@ara-Arab ,
         "Diana"@eng-Latn ;
-    wdata:q7200235 "IQG11Q05N02" ;
 .
 
 <urn:mdciii:1603:16:368:3:110503>
@@ -920,7 +865,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "بالك"@ara-Arab ,
         "Balak"@eng-Latn ;
-    wdata:q7200235 "IQG11Q05N03" ;
 .
 
 <urn:mdciii:1603:16:368:3:110504>
@@ -931,7 +875,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "خليفان"@ara-Arab ,
         "Khailfan"@eng-Latn ;
-    wdata:q7200235 "IQG11Q05N04" ;
 .
 
 <urn:mdciii:1603:16:368:3:110505>
@@ -942,7 +885,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "ميركة سور"@ara-Arab ,
         "Mergasur"@eng-Latn ;
-    wdata:q7200235 "IQG11Q05N05" ;
 .
 
 <urn:mdciii:1603:16:368:3:110506>
@@ -953,7 +895,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "برادوست"@ara-Arab ,
         "Bradost"@eng-Latn ;
-    wdata:q7200235 "IQG11Q05N06" ;
 .
 
 <urn:mdciii:1603:16:368:3:110507>
@@ -964,7 +905,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "الحج عمران"@ara-Arab ,
         "Haji Omaran"@eng-Latn ;
-    wdata:q7200235 "IQG11Q05N07" ;
 .
 
 <urn:mdciii:1603:16:368:3:110601>
@@ -975,7 +915,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "خوشناو"@ara-Arab ,
         "Khoshnaw"@eng-Latn ;
-    wdata:q7200235 "IQG11Q06N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:110602>
@@ -986,7 +925,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "صلاح الدين"@ara-Arab ,
         "Salah Al-Din"@eng-Latn ;
-    wdata:q7200235 "IQG11Q06N02" ;
 .
 
 <urn:mdciii:1603:16:368:3:110603>
@@ -997,7 +935,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "ديرة حرير"@ara-Arab ,
         "Harir"@eng-Latn ;
-    wdata:q7200235 "IQG11Q06N03" ;
 .
 
 <urn:mdciii:1603:16:368:3:120101>
@@ -1008,7 +945,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "مركز عين التمر"@ara-Arab ,
         "Markaz Ain Al-Tamur"@eng-Latn ;
-    wdata:q7200235 "IQG12Q01N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:120201>
@@ -1019,7 +955,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "الجدول الغربي"@ara-Arab ,
         "Al-Jadwal Al-Ghrabi"@eng-Latn ;
-    wdata:q7200235 "IQG12Q02N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:120202>
@@ -1030,7 +965,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "مركز الهندية"@ara-Arab ,
         "Markaz Al-Hindiya"@eng-Latn ;
-    wdata:q7200235 "IQG12Q02N02" ;
 .
 
 <urn:mdciii:1603:16:368:3:120301>
@@ -1041,7 +975,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "مركز كربلاء"@ara-Arab ,
         "Markaz Kerbela"@eng-Latn ;
-    wdata:q7200235 "IQG12Q03N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:120302>
@@ -1052,7 +985,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "الحسينية"@ara-Arab ,
         "Al-Hassainya"@eng-Latn ;
-    wdata:q7200235 "IQG12Q03N02" ;
 .
 
 <urn:mdciii:1603:16:368:3:130101>
@@ -1063,7 +995,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "مركز الحويجة"@ara-Arab ,
         "Markaz Al-Hawiga"@eng-Latn ;
-    wdata:q7200235 "IQG13Q01N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:130102>
@@ -1074,7 +1005,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "الزاب"@ara-Arab ,
         "Al-Zab"@eng-Latn ;
-    wdata:q7200235 "IQG13Q01N02" ;
 .
 
 <urn:mdciii:1603:16:368:3:130103>
@@ -1085,7 +1015,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "الرياض"@ara-Arab ,
         "Al-Riyadh"@eng-Latn ;
-    wdata:q7200235 "IQG13Q01N03" ;
 .
 
 <urn:mdciii:1603:16:368:3:130104>
@@ -1096,7 +1025,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "العباسية"@ara-Arab ,
         "Al-Abbasi"@eng-Latn ;
-    wdata:q7200235 "IQG13Q01N04" ;
 .
 
 <urn:mdciii:1603:16:368:3:130201>
@@ -1107,7 +1035,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "الرشاد"@ara-Arab ,
         "Al-Rashad"@eng-Latn ;
-    wdata:q7200235 "IQG13Q02N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:130202>
@@ -1118,7 +1045,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "مركز داقوق"@ara-Arab ,
         "Markaz Daquq"@eng-Latn ;
-    wdata:q7200235 "IQG13Q02N02" ;
 .
 
 <urn:mdciii:1603:16:368:3:130301>
@@ -1129,7 +1055,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "سركران"@ara-Arab ,
         "Sarkran"@eng-Latn ;
-    wdata:q7200235 "IQG13Q03N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:130302>
@@ -1140,7 +1065,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "مركز الدبس"@ara-Arab ,
         "Markaz Dibis"@eng-Latn ;
-    wdata:q7200235 "IQG13Q03N02" ;
 .
 
 <urn:mdciii:1603:16:368:3:130303>
@@ -1151,7 +1075,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "التون كوبري"@ara-Arab ,
         "Altun Qupri"@eng-Latn ;
-    wdata:q7200235 "IQG13Q03N03" ;
 .
 
 <urn:mdciii:1603:16:368:3:130401>
@@ -1162,7 +1085,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "تازة خورماتو"@ara-Arab ,
         "Taza Khormato"@eng-Latn ;
-    wdata:q7200235 "IQG13Q04N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:130402>
@@ -1173,7 +1095,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "ليلان"@ara-Arab ,
         "Lilan"@eng-Latn ;
-    wdata:q7200235 "IQG13Q04N02" ;
 .
 
 <urn:mdciii:1603:16:368:3:130403>
@@ -1184,7 +1105,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "الملتقى"@ara-Arab ,
         "Al-Multaka"@eng-Latn ;
-    wdata:q7200235 "IQG13Q04N03" ;
 .
 
 <urn:mdciii:1603:16:368:3:130404>
@@ -1195,7 +1115,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "يايجي"@ara-Arab ,
         "Yaijy"@eng-Latn ;
-    wdata:q7200235 "IQG13Q04N04" ;
 .
 
 <urn:mdciii:1603:16:368:3:130405>
@@ -1206,7 +1125,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "شوان"@ara-Arab ,
         "Shwan"@eng-Latn ;
-    wdata:q7200235 "IQG13Q04N05" ;
 .
 
 <urn:mdciii:1603:16:368:3:130406>
@@ -1217,7 +1135,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "مركز كركوك"@ara-Arab ,
         "Markaz Kirkuk"@eng-Latn ;
-    wdata:q7200235 "IQG13Q04N06" ;
 .
 
 <urn:mdciii:1603:16:368:3:130407>
@@ -1228,7 +1145,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "قرة هنجير"@ara-Arab ,
         "Qura Hanjeer"@eng-Latn ;
-    wdata:q7200235 "IQG13Q04N07" ;
 .
 
 <urn:mdciii:1603:16:368:3:140101>
@@ -1239,7 +1155,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "كميت"@ara-Arab ,
         "Kumait"@eng-Latn ;
-    wdata:q7200235 "IQG14Q01N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:140102>
@@ -1250,7 +1165,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "الطيب"@ara-Arab ,
         "Al-Teeb"@eng-Latn ;
-    wdata:q7200235 "IQG14Q01N02" ;
 .
 
 <urn:mdciii:1603:16:368:3:140201>
@@ -1261,7 +1175,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "مركز علي الغربي"@ara-Arab ,
         "Markaz Ali Al-Gharbi"@eng-Latn ;
-    wdata:q7200235 "IQG14Q02N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:140202>
@@ -1272,7 +1185,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "علي الشرقي"@ara-Arab ,
         "Ali Al-Sharki"@eng-Latn ;
-    wdata:q7200235 "IQG14Q02N02" ;
 .
 
 <urn:mdciii:1603:16:368:3:140301>
@@ -1283,7 +1195,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "بني هاشم"@ara-Arab ,
         "Beni Hasheem"@eng-Latn ;
-    wdata:q7200235 "IQG14Q03N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:140302>
@@ -1294,7 +1205,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "المشرح"@ara-Arab ,
         "Al-Msharah"@eng-Latn ;
-    wdata:q7200235 "IQG14Q03N02" ;
 .
 
 <urn:mdciii:1603:16:368:3:140303>
@@ -1305,7 +1215,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "مركز الكحلاء"@ara-Arab ,
         "Markaz Al-Kahla"@eng-Latn ;
-    wdata:q7200235 "IQG14Q03N03" ;
 .
 
 <urn:mdciii:1603:16:368:3:140401>
@@ -1316,7 +1225,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "السلام"@ara-Arab ,
         "Al-Salam"@eng-Latn ;
-    wdata:q7200235 "IQG14Q04N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:140402>
@@ -1327,7 +1235,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "مركز الميمونة"@ara-Arab ,
         "Markaz Al-Maimouna"@eng-Latn ;
-    wdata:q7200235 "IQG14Q04N02" ;
 .
 
 <urn:mdciii:1603:16:368:3:140501>
@@ -1338,7 +1245,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "العزير"@ara-Arab ,
         "Al-Aziz"@eng-Latn ;
-    wdata:q7200235 "IQG14Q05N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:140502>
@@ -1349,7 +1255,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "العدل"@ara-Arab ,
         "Al-Adel"@eng-Latn ;
-    wdata:q7200235 "IQG14Q05N02" ;
 .
 
 <urn:mdciii:1603:16:368:3:140601>
@@ -1360,7 +1265,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "مركز قلعة صالح"@ara-Arab ,
         "Markaz Qalat Saleh"@eng-Latn ;
-    wdata:q7200235 "IQG14Q06N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:150101>
@@ -1371,7 +1275,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "بردرش"@ara-Arab ,
         "Bardarash"@eng-Latn ;
-    wdata:q7200235 "IQG15Q01N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:150102>
@@ -1382,7 +1285,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "بجيل"@ara-Arab ,
         "Begeel"@eng-Latn ;
-    wdata:q7200235 "IQG15Q01N02" ;
 .
 
 <urn:mdciii:1603:16:368:3:150103>
@@ -1393,7 +1295,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "كردسين"@ara-Arab ,
         "Kurdsein"@eng-Latn ;
-    wdata:q7200235 "IQG15Q01N03" ;
 .
 
 <urn:mdciii:1603:16:368:3:150104>
@@ -1404,7 +1305,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "دينارتة"@ara-Arab ,
         "Dinarta"@eng-Latn ;
-    wdata:q7200235 "IQG15Q01N04" ;
 .
 
 <urn:mdciii:1603:16:368:3:150105>
@@ -1415,7 +1315,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "مركز عقرة"@ara-Arab ,
         "Markaz Aqra"@eng-Latn ;
-    wdata:q7200235 "IQG15Q01N05" ;
 .
 
 <urn:mdciii:1603:16:368:3:150201>
@@ -1426,7 +1325,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "مركز البعاج"@ara-Arab ,
         "Markaz Al-Baaj"@eng-Latn ;
-    wdata:q7200235 "IQG15Q02N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:150202>
@@ -1437,7 +1335,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "القحطانية"@ara-Arab ,
         "Al-Qahtanya"@eng-Latn ;
-    wdata:q7200235 "IQG15Q02N02" ;
 .
 
 <urn:mdciii:1603:16:368:3:150301>
@@ -1448,7 +1345,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "نمرود"@ara-Arab ,
         "Namroud"@eng-Latn ;
-    wdata:q7200235 "IQG15Q03N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:150302>
@@ -1459,7 +1355,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "برطلة"@ara-Arab ,
         "Bartilla"@eng-Latn ;
-    wdata:q7200235 "IQG15Q03N02" ;
 .
 
 <urn:mdciii:1603:16:368:3:150303>
@@ -1470,7 +1365,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "مركز الحمدانية"@ara-Arab ,
         "Markaz Al-Hamdaniya"@eng-Latn ;
-    wdata:q7200235 "IQG15Q03N03" ;
 .
 
 <urn:mdciii:1603:16:368:3:150401>
@@ -1481,7 +1375,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "مركز الحضر"@ara-Arab ,
         "Markaz Hatra"@eng-Latn ;
-    wdata:q7200235 "IQG15Q04N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:150501>
@@ -1492,7 +1385,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "القيارة"@ara-Arab ,
         "Al-Qayarra"@eng-Latn ;
-    wdata:q7200235 "IQG15Q05N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:150502>
@@ -1503,7 +1395,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "حمام العليل"@ara-Arab ,
         "Hammam Al-Alil"@eng-Latn ;
-    wdata:q7200235 "IQG15Q05N02" ;
 .
 
 <urn:mdciii:1603:16:368:3:150503>
@@ -1514,7 +1405,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "بعشيقة"@ara-Arab ,
         "Bashiqa"@eng-Latn ;
-    wdata:q7200235 "IQG15Q05N03" ;
 .
 
 <urn:mdciii:1603:16:368:3:150504>
@@ -1525,7 +1415,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "المحمداث"@ara-Arab ,
         "Al-Muhamadath"@eng-Latn ;
-    wdata:q7200235 "IQG15Q05N04" ;
 .
 
 <urn:mdciii:1603:16:368:3:150601>
@@ -1536,7 +1425,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "مركز الشيخان"@ara-Arab ,
         "Markaz Al-Shikhan"@eng-Latn ;
-    wdata:q7200235 "IQG15Q06N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:150602>
@@ -1547,7 +1435,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "قسروك"@ara-Arab ,
         "Qasruk"@eng-Latn ;
-    wdata:q7200235 "IQG15Q06N02" ;
 .
 
 <urn:mdciii:1603:16:368:3:150603>
@@ -1558,7 +1445,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "ئةتريش"@ara-Arab ,
         "Atreesh"@eng-Latn ;
-    wdata:q7200235 "IQG15Q06N03" ;
 .
 
 <urn:mdciii:1603:16:368:3:150701>
@@ -1569,7 +1455,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "القيروان"@ara-Arab ,
         "Al-Qairawan"@eng-Latn ;
-    wdata:q7200235 "IQG15Q07N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:150702>
@@ -1580,7 +1465,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "الشمال"@ara-Arab ,
         "Al-Shamal"@eng-Latn ;
-    wdata:q7200235 "IQG15Q07N02" ;
 .
 
 <urn:mdciii:1603:16:368:3:150703>
@@ -1591,7 +1475,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "مركز سنجار"@ara-Arab ,
         "Markaz Sinjar"@eng-Latn ;
-    wdata:q7200235 "IQG15Q07N03" ;
 .
 
 <urn:mdciii:1603:16:368:3:150801>
@@ -1602,7 +1485,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "مركز تلعفر"@ara-Arab ,
         "Markaz Telafar"@eng-Latn ;
-    wdata:q7200235 "IQG15Q08N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:150802>
@@ -1613,7 +1495,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "العياضية"@ara-Arab ,
         "Al-Ayadiya"@eng-Latn ;
-    wdata:q7200235 "IQG15Q08N02" ;
 .
 
 <urn:mdciii:1603:16:368:3:150803>
@@ -1624,7 +1505,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "زمار"@ara-Arab ,
         "Zummar"@eng-Latn ;
-    wdata:q7200235 "IQG15Q08N03" ;
 .
 
 <urn:mdciii:1603:16:368:3:150804>
@@ -1635,7 +1515,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "ربيعة"@ara-Arab ,
         "Rabia"@eng-Latn ;
-    wdata:q7200235 "IQG15Q08N04" ;
 .
 
 <urn:mdciii:1603:16:368:3:150901>
@@ -1646,7 +1525,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "مركز تلكيف"@ara-Arab ,
         "Markaz Tilkaef"@eng-Latn ;
-    wdata:q7200235 "IQG15Q09N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:150902>
@@ -1657,7 +1535,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "القوش"@ara-Arab ,
         "Al-Qosh"@eng-Latn ;
-    wdata:q7200235 "IQG15Q09N02" ;
 .
 
 <urn:mdciii:1603:16:368:3:150903>
@@ -1668,7 +1545,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "وانة"@ara-Arab ,
         "Wana"@eng-Latn ;
-    wdata:q7200235 "IQG15Q09N03" ;
 .
 
 <urn:mdciii:1603:16:368:3:160101>
@@ -1679,7 +1555,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "حمرين"@ara-Arab ,
         "Hamreen"@eng-Latn ;
-    wdata:q7200235 "IQG16Q01N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:160102>
@@ -1690,7 +1565,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "ابو دلف"@ara-Arab ,
         "Abu Dalf"@eng-Latn ;
-    wdata:q7200235 "IQG16Q01N02" ;
 .
 
 <urn:mdciii:1603:16:368:3:160201>
@@ -1701,7 +1575,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "مركز الشرقاط"@ara-Arab ,
         "Markaz Al-Shirqat"@eng-Latn ;
-    wdata:q7200235 "IQG16Q02N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:160301>
@@ -1712,7 +1585,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "مركز بيجي"@ara-Arab ,
         "Markaz Beygee"@eng-Latn ;
-    wdata:q7200235 "IQG16Q03N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:160302>
@@ -1723,7 +1595,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "الصينية"@ara-Arab ,
         "Al-Synia"@eng-Latn ;
-    wdata:q7200235 "IQG16Q03N02" ;
 .
 
 <urn:mdciii:1603:16:368:3:160303>
@@ -1734,7 +1605,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "مكحول"@ara-Arab ,
         "Makkhoul"@eng-Latn ;
-    wdata:q7200235 "IQG16Q03N03" ;
 .
 
 <urn:mdciii:1603:16:368:3:160401>
@@ -1745,7 +1615,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "يثرب"@ara-Arab ,
         "Yathreb"@eng-Latn ;
-    wdata:q7200235 "IQG16Q04N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:160402>
@@ -1756,7 +1625,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "الاسحاقي"@ara-Arab ,
         "Al-Esshaqi"@eng-Latn ;
-    wdata:q7200235 "IQG16Q04N02" ;
 .
 
 <urn:mdciii:1603:16:368:3:160403>
@@ -1767,7 +1635,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "الضلوعية"@ara-Arab ,
         "Al-Duloeyah"@eng-Latn ;
-    wdata:q7200235 "IQG16Q04N03" ;
 .
 
 <urn:mdciii:1603:16:368:3:160404>
@@ -1778,7 +1645,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "الدجيل"@ara-Arab ,
         "Al-Dujeel"@eng-Latn ;
-    wdata:q7200235 "IQG16Q04N04" ;
 .
 
 <urn:mdciii:1603:16:368:3:160501>
@@ -1789,7 +1655,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "المعتصم"@ara-Arab ,
         "Al-Muotasim"@eng-Latn ;
-    wdata:q7200235 "IQG16Q05N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:160502>
@@ -1800,7 +1665,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "الثرثار"@ara-Arab ,
         "Al-Tharthar"@eng-Latn ;
-    wdata:q7200235 "IQG16Q05N02" ;
 .
 
 <urn:mdciii:1603:16:368:3:160503>
@@ -1811,7 +1675,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "مركز سامراء"@ara-Arab ,
         "Markaz Samarra"@eng-Latn ;
-    wdata:q7200235 "IQG16Q05N03" ;
 .
 
 <urn:mdciii:1603:16:368:3:160504>
@@ -1822,7 +1685,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "دجلة"@ara-Arab ,
         "Dijla"@eng-Latn ;
-    wdata:q7200235 "IQG16Q05N04" ;
 .
 
 <urn:mdciii:1603:16:368:3:160601>
@@ -1833,7 +1695,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "ام القرى"@ara-Arab ,
         "Um Al-Qura"@eng-Latn ;
-    wdata:q7200235 "IQG16Q06N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:160602>
@@ -1844,7 +1705,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "العلم"@ara-Arab ,
         "Al-Alam"@eng-Latn ;
-    wdata:q7200235 "IQG16Q06N02" ;
 .
 
 <urn:mdciii:1603:16:368:3:160701>
@@ -1855,7 +1715,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "آمرلي"@ara-Arab ,
         "Ameraly"@eng-Latn ;
-    wdata:q7200235 "IQG16Q07N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:160702>
@@ -1866,7 +1725,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "مركز طوز خورماتو"@ara-Arab ,
         "Markaz Tooz Khurmato"@eng-Latn ;
-    wdata:q7200235 "IQG16Q07N02" ;
 .
 
 <urn:mdciii:1603:16:368:3:160703>
@@ -1877,7 +1735,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "سليمان بيك"@ara-Arab ,
         "Sulaiman Baig"@eng-Latn ;
-    wdata:q7200235 "IQG16Q07N03" ;
 .
 
 <urn:mdciii:1603:16:368:3:170101>
@@ -1888,7 +1745,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "الفهود"@ara-Arab ,
         "Al-Fuhood"@eng-Latn ;
-    wdata:q7200235 "IQG17Q01N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:170102>
@@ -1899,7 +1755,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "الحمار"@ara-Arab ,
         "Al-Hammar"@eng-Latn ;
-    wdata:q7200235 "IQG17Q01N02" ;
 .
 
 <urn:mdciii:1603:16:368:3:170103>
@@ -1910,7 +1765,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "مركز الجبايش"@ara-Arab ,
         "Markaz Al-Chibayish"@eng-Latn ;
-    wdata:q7200235 "IQG17Q01N03" ;
 .
 
 <urn:mdciii:1603:16:368:3:170201>
@@ -1921,7 +1775,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "الفجر"@ara-Arab ,
         "Al-Fajer"@eng-Latn ;
-    wdata:q7200235 "IQG17Q02N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:170202>
@@ -1932,7 +1785,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "النصر"@ara-Arab ,
         "Al-Nasr"@eng-Latn ;
-    wdata:q7200235 "IQG17Q02N02" ;
 .
 
 <urn:mdciii:1603:16:368:3:170203>
@@ -1943,7 +1795,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "مركز الرفاعي"@ara-Arab ,
         "Markaz Al-Rifai"@eng-Latn ;
-    wdata:q7200235 "IQG17Q02N03" ;
 .
 
 <urn:mdciii:1603:16:368:3:170204>
@@ -1954,7 +1805,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "قلعة السكر"@ara-Arab ,
         "Qalat Siker"@eng-Latn ;
-    wdata:q7200235 "IQG17Q02N04" ;
 .
 
 <urn:mdciii:1603:16:368:3:170301>
@@ -1965,7 +1815,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "مركز الشطرة"@ara-Arab ,
         "Markaz Al-Shatra"@eng-Latn ;
-    wdata:q7200235 "IQG17Q03N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:170302>
@@ -1976,7 +1825,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "القراف"@ara-Arab ,
         "Al-Gharraf"@eng-Latn ;
-    wdata:q7200235 "IQG17Q03N02" ;
 .
 
 <urn:mdciii:1603:16:368:3:170303>
@@ -1987,7 +1835,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "الدواية"@ara-Arab ,
         "Al-Dawaya"@eng-Latn ;
-    wdata:q7200235 "IQG17Q03N03" ;
 .
 
 <urn:mdciii:1603:16:368:3:170401>
@@ -1998,7 +1845,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "البطحاء"@ara-Arab ,
         "Al-Battha'a"@eng-Latn ;
-    wdata:q7200235 "IQG17Q04N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:170402>
@@ -2009,7 +1855,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "مركزالناصرية"@ara-Arab ,
         "Markaz Al-Nasiriya"@eng-Latn ;
-    wdata:q7200235 "IQG17Q04N02" ;
 .
 
 <urn:mdciii:1603:16:368:3:170403>
@@ -2020,7 +1865,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "سيد خليل"@ara-Arab ,
         "Said Dekhil"@eng-Latn ;
-    wdata:q7200235 "IQG17Q04N03" ;
 .
 
 <urn:mdciii:1603:16:368:3:170404>
@@ -2031,7 +1875,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "الاصلاح"@ara-Arab ,
         "Al-Islah"@eng-Latn ;
-    wdata:q7200235 "IQG17Q04N04" ;
 .
 
 <urn:mdciii:1603:16:368:3:170501>
@@ -2042,7 +1885,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "كرمة بني سعد"@ara-Arab ,
         "Garmat Beni Said"@eng-Latn ;
-    wdata:q7200235 "IQG17Q05N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:170502>
@@ -2053,7 +1895,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "الطار"@ara-Arab ,
         "Al-Tar"@eng-Latn ;
-    wdata:q7200235 "IQG17Q05N02" ;
 .
 
 <urn:mdciii:1603:16:368:3:170503>
@@ -2064,7 +1905,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "الفضلية"@ara-Arab ,
         "Al-Fadhliya"@eng-Latn ;
-    wdata:q7200235 "IQG17Q05N03" ;
 .
 
 <urn:mdciii:1603:16:368:3:170504>
@@ -2075,7 +1915,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "عكيكة"@ara-Arab ,
         "Akaika"@eng-Latn ;
-    wdata:q7200235 "IQG17Q05N04" ;
 .
 
 <urn:mdciii:1603:16:368:3:180101>
@@ -2086,7 +1925,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "البشائر"@ara-Arab ,
         "Al-Bashaer"@eng-Latn ;
-    wdata:q7200235 "IQG18Q01N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:180102>
@@ -2097,7 +1935,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "الموفقية"@ara-Arab ,
         "Al-Mowafaqiya"@eng-Latn ;
-    wdata:q7200235 "IQG18Q01N02" ;
 .
 
 <urn:mdciii:1603:16:368:3:180201>
@@ -2108,7 +1945,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "واسط"@ara-Arab ,
         "Wasit"@eng-Latn ;
-    wdata:q7200235 "IQG18Q02N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:180202>
@@ -2119,7 +1955,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "شيخ سعد"@ara-Arab ,
         "Shaekh Saad"@eng-Latn ;
-    wdata:q7200235 "IQG18Q02N02" ;
 .
 
 <urn:mdciii:1603:16:368:3:180203>
@@ -2130,7 +1965,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "مركز الكوت"@ara-Arab ,
         "Markaz Al-Kut"@eng-Latn ;
-    wdata:q7200235 "IQG18Q02N03" ;
 .
 
 <urn:mdciii:1603:16:368:3:180301>
@@ -2141,7 +1975,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "الاحرار"@ara-Arab ,
         "Al-Ahrar"@eng-Latn ;
-    wdata:q7200235 "IQG18Q03N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:180302>
@@ -2152,7 +1985,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "مركز النعمانية"@ara-Arab ,
         "Markaz Al-Noamaniya"@eng-Latn ;
-    wdata:q7200235 "IQG18Q03N02" ;
 .
 
 <urn:mdciii:1603:16:368:3:180401>
@@ -2163,7 +1995,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "الزبيدية"@ara-Arab ,
         "Al-Zubaidiya"@eng-Latn ;
-    wdata:q7200235 "IQG18Q04N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:180402>
@@ -2174,7 +2005,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "الشحيمية"@ara-Arab ,
         "Al-Shehamiya"@eng-Latn ;
-    wdata:q7200235 "IQG18Q04N02" ;
 .
 
 <urn:mdciii:1603:16:368:3:180403>
@@ -2185,7 +2015,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "مركز الصويرة"@ara-Arab ,
         "Markaz Al-Suwaira"@eng-Latn ;
-    wdata:q7200235 "IQG18Q04N03" ;
 .
 
 <urn:mdciii:1603:16:368:3:180404>
@@ -2196,7 +2025,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "الحفرية"@ara-Arab ,
         "Al-Hafriya"@eng-Latn ;
-    wdata:q7200235 "IQG18Q04N04" ;
 .
 
 <urn:mdciii:1603:16:368:3:180405>
@@ -2207,7 +2035,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "العزيزية"@ara-Arab ,
         "Al-Aziziya"@eng-Latn ;
-    wdata:q7200235 "IQG18Q04N05" ;
 .
 
 <urn:mdciii:1603:16:368:3:180501>
@@ -2218,7 +2045,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "مركز بدرة"@ara-Arab ,
         "Markaz Badra"@eng-Latn ;
-    wdata:q7200235 "IQG18Q05N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:180502>
@@ -2229,7 +2055,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "جصان"@ara-Arab ,
         "Jassan"@eng-Latn ;
-    wdata:q7200235 "IQG18Q05N02" ;
 .
 
 <urn:mdciii:1603:16:368:3:20101>
@@ -2240,7 +2065,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "السيبة"@ara-Arab ,
         "Al-Siba"@eng-Latn ;
-    wdata:q7200235 "IQG02Q01N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:20102>
@@ -2251,7 +2075,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "مركز ابي الخصيب"@ara-Arab ,
         "Markaz Abu Al-Khaseeb"@eng-Latn ;
-    wdata:q7200235 "IQG02Q01N02" ;
 .
 
 <urn:mdciii:1603:16:368:3:20201>
@@ -2262,7 +2085,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "الهارثة"@ara-Arab ,
         "Al-Hartha"@eng-Latn ;
-    wdata:q7200235 "IQG02Q02N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:20202>
@@ -2273,7 +2095,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "مركز البصرة"@ara-Arab ,
         "Markaz Al-Basrah"@eng-Latn ;
-    wdata:q7200235 "IQG02Q02N02" ;
 .
 
 <urn:mdciii:1603:16:368:3:20301>
@@ -2284,7 +2105,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "البحار"@ara-Arab ,
         "Al-Bahhar"@eng-Latn ;
-    wdata:q7200235 "IQG02Q03N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:20302>
@@ -2295,7 +2115,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "مركز الفاو"@ara-Arab ,
         "Markaz Al-Faw"@eng-Latn ;
-    wdata:q7200235 "IQG02Q03N02" ;
 .
 
 <urn:mdciii:1603:16:368:3:20401>
@@ -2306,7 +2125,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "الهوير"@ara-Arab ,
         "Al-Howweir"@eng-Latn ;
-    wdata:q7200235 "IQG02Q04N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:20402>
@@ -2317,7 +2135,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "مركز المدينة"@ara-Arab ,
         "Markaz Al-Midaina"@eng-Latn ;
-    wdata:q7200235 "IQG02Q04N02" ;
 .
 
 <urn:mdciii:1603:16:368:3:20403>
@@ -2328,7 +2145,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "طلحة"@ara-Arab ,
         "Talha"@eng-Latn ;
-    wdata:q7200235 "IQG02Q04N03" ;
 .
 
 <urn:mdciii:1603:16:368:3:20501>
@@ -2339,7 +2155,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "الدير"@ara-Arab ,
         "Al-Dair"@eng-Latn ;
-    wdata:q7200235 "IQG02Q05N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:20502>
@@ -2350,7 +2165,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "الثغر"@ara-Arab ,
         "Al-Thagar"@eng-Latn ;
-    wdata:q7200235 "IQG02Q05N02" ;
 .
 
 <urn:mdciii:1603:16:368:3:20503>
@@ -2361,7 +2175,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "مركز القرنة"@ara-Arab ,
         "Markaz Al-Qurna"@eng-Latn ;
-    wdata:q7200235 "IQG02Q05N03" ;
 .
 
 <urn:mdciii:1603:16:368:3:20601>
@@ -2372,7 +2185,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "مركز الزبير"@ara-Arab ,
         "Markaz Al-Zubair"@eng-Latn ;
-    wdata:q7200235 "IQG02Q06N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:20602>
@@ -2383,7 +2195,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "سفوان"@ara-Arab ,
         "Safwan"@eng-Latn ;
-    wdata:q7200235 "IQG02Q06N02" ;
 .
 
 <urn:mdciii:1603:16:368:3:20603>
@@ -2394,7 +2205,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "ام قصر"@ara-Arab ,
         "Um Qasr"@eng-Latn ;
-    wdata:q7200235 "IQG02Q06N03" ;
 .
 
 <urn:mdciii:1603:16:368:3:20701>
@@ -2405,7 +2215,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "النشوة"@ara-Arab ,
         "Al-Nashwa"@eng-Latn ;
-    wdata:q7200235 "IQG02Q07N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:20702>
@@ -2416,7 +2225,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "مركز شط العرب"@ara-Arab ,
         "Markaz Shat Al-Arab"@eng-Latn ;
-    wdata:q7200235 "IQG02Q07N02" ;
 .
 
 <urn:mdciii:1603:16:368:3:20703>
@@ -2427,7 +2235,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "عتبة"@ara-Arab ,
         "Outba"@eng-Latn ;
-    wdata:q7200235 "IQG02Q07N03" ;
 .
 
 <urn:mdciii:1603:16:368:3:30101>
@@ -2438,7 +2245,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "مركز الخضر"@ara-Arab ,
         "Markaz Al-Khidhir"@eng-Latn ;
-    wdata:q7200235 "IQG03Q01N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:30201>
@@ -2449,7 +2255,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "الهلال"@ara-Arab ,
         "Al-Hilal"@eng-Latn ;
-    wdata:q7200235 "IQG03Q02N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:30202>
@@ -2460,7 +2265,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "المجد"@ara-Arab ,
         "Al-Majd"@eng-Latn ;
-    wdata:q7200235 "IQG03Q02N02" ;
 .
 
 <urn:mdciii:1603:16:368:3:30203>
@@ -2471,7 +2275,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "النجمي"@ara-Arab ,
         "Al-Najmi"@eng-Latn ;
-    wdata:q7200235 "IQG03Q02N03" ;
 .
 
 <urn:mdciii:1603:16:368:3:30204>
@@ -2482,7 +2285,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "الوركاء"@ara-Arab ,
         "Al-Warka"@eng-Latn ;
-    wdata:q7200235 "IQG03Q02N04" ;
 .
 
 <urn:mdciii:1603:16:368:3:30205>
@@ -2493,7 +2295,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "مركز الرميثة"@ara-Arab ,
         "Markaz Al-Rumaitha"@eng-Latn ;
-    wdata:q7200235 "IQG03Q02N05" ;
 .
 
 <urn:mdciii:1603:16:368:3:30301>
@@ -2504,7 +2305,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "مركز السلمان"@ara-Arab ,
         "Markaz Al-Salman"@eng-Latn ;
-    wdata:q7200235 "IQG03Q03N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:30401>
@@ -2515,7 +2315,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "السوير"@ara-Arab ,
         "Al-Sowair"@eng-Latn ;
-    wdata:q7200235 "IQG03Q04N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:40101>
@@ -2526,7 +2325,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "الحرية"@ara-Arab ,
         "Al-Huriya"@eng-Latn ;
-    wdata:q7200235 "IQG04Q01N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:40102>
@@ -2537,7 +2335,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "مركز الكوفة"@ara-Arab ,
         "Markaz Al-Kufa"@eng-Latn ;
-    wdata:q7200235 "IQG04Q01N02" ;
 .
 
 <urn:mdciii:1603:16:368:3:40201>
@@ -2548,7 +2345,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "الحيرة"@ara-Arab ,
         "Al-Heera"@eng-Latn ;
-    wdata:q7200235 "IQG04Q02N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:40301>
@@ -2559,7 +2355,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "الحيدرية"@ara-Arab ,
         "Al-Haydariya"@eng-Latn ;
-    wdata:q7200235 "IQG04Q03N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:40302>
@@ -2570,7 +2365,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "الشبكة"@ara-Arab ,
         "Al-Shabaka"@eng-Latn ;
-    wdata:q7200235 "IQG04Q03N02" ;
 .
 
 <urn:mdciii:1603:16:368:3:40303>
@@ -2581,7 +2375,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "مركز النجف"@ara-Arab ,
         "Markaz Al-Najaf"@eng-Latn ;
-    wdata:q7200235 "IQG04Q03N03" ;
 .
 
 <urn:mdciii:1603:16:368:3:50101>
@@ -2592,7 +2385,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "البدير"@ara-Arab ,
         "Al-Bdair"@eng-Latn ;
-    wdata:q7200235 "IQG05Q01N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:50102>
@@ -2603,7 +2395,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "الفوار"@ara-Arab ,
         "Al-Fawwar"@eng-Latn ;
-    wdata:q7200235 "IQG05Q01N02" ;
 .
 
 <urn:mdciii:1603:16:368:3:50103>
@@ -2614,7 +2405,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "مركز عفك"@ara-Arab ,
         "Markaz Afaq"@eng-Latn ;
-    wdata:q7200235 "IQG05Q01N03" ;
 .
 
 <urn:mdciii:1603:16:368:3:50104>
@@ -2625,7 +2415,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "سومر"@ara-Arab ,
         "Sumer"@eng-Latn ;
-    wdata:q7200235 "IQG05Q01N04" ;
 .
 
 <urn:mdciii:1603:16:368:3:50201>
@@ -2636,7 +2425,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "الدغارة"@ara-Arab ,
         "Al-Daghara"@eng-Latn ;
-    wdata:q7200235 "IQG05Q02N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:50202>
@@ -2647,7 +2435,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "السنية"@ara-Arab ,
         "Al-Saniya"@eng-Latn ;
-    wdata:q7200235 "IQG05Q02N02" ;
 .
 
 <urn:mdciii:1603:16:368:3:50203>
@@ -2658,7 +2445,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "الشافعية"@ara-Arab ,
         "Al-Shafeia"@eng-Latn ;
-    wdata:q7200235 "IQG05Q02N03" ;
 .
 
 <urn:mdciii:1603:16:368:3:50204>
@@ -2669,7 +2455,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "مركز الديوانية"@ara-Arab ,
         "Markaz Al-Diwaniya"@eng-Latn ;
-    wdata:q7200235 "IQG05Q02N04" ;
 .
 
 <urn:mdciii:1603:16:368:3:50301>
@@ -2680,7 +2465,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "السدير"@ara-Arab ,
         "Al-Sadeer"@eng-Latn ;
-    wdata:q7200235 "IQG05Q03N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:50302>
@@ -2691,7 +2475,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "الشنافية"@ara-Arab ,
         "Al-Shinafiya"@eng-Latn ;
-    wdata:q7200235 "IQG05Q03N02" ;
 .
 
 <urn:mdciii:1603:16:368:3:50303>
@@ -2702,7 +2485,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "مركز الحمزة"@ara-Arab ,
         "Markaz Al-Hamza"@eng-Latn ;
-    wdata:q7200235 "IQG05Q03N03" ;
 .
 
 <urn:mdciii:1603:16:368:3:50401>
@@ -2713,7 +2495,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "المهناوية"@ara-Arab ,
         "Al-Mihanawiya"@eng-Latn ;
-    wdata:q7200235 "IQG05Q04N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:50402>
@@ -2724,7 +2505,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "غماس"@ara-Arab ,
         "Ghammas"@eng-Latn ;
-    wdata:q7200235 "IQG05Q04N02" ;
 .
 
 <urn:mdciii:1603:16:368:3:60101>
@@ -2735,7 +2515,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "بازيان"@ara-Arab ,
         "Bazian"@eng-Latn ;
-    wdata:q7200235 "IQG06Q01N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:60102>
@@ -2746,7 +2525,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "قره داغ"@ara-Arab ,
         "Qaradagh"@eng-Latn ;
-    wdata:q7200235 "IQG06Q01N02" ;
 .
 
 <urn:mdciii:1603:16:368:3:60103>
@@ -2757,7 +2535,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "سرجنار"@ara-Arab ,
         "Sarchnar"@eng-Latn ;
-    wdata:q7200235 "IQG06Q01N03" ;
 .
 
 <urn:mdciii:1603:16:368:3:60201>
@@ -2768,7 +2545,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "ئاغجة لةر"@ara-Arab ,
         "Agjalare"@eng-Latn ;
-    wdata:q7200235 "IQG06Q02N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:60202>
@@ -2779,7 +2555,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "مركز جمجمال"@ara-Arab ,
         "Markaz Chamchamal"@eng-Latn ;
-    wdata:q7200235 "IQG06Q02N02" ;
 .
 
 <urn:mdciii:1603:16:368:3:60203>
@@ -2790,7 +2565,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "قادر كرم"@ara-Arab ,
         "Kadr Karam"@eng-Latn ;
-    wdata:q7200235 "IQG06Q02N03" ;
 .
 
 <urn:mdciii:1603:16:368:3:60204>
@@ -2801,7 +2575,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "سنكاو"@ara-Arab ,
         "Cenkaw"@eng-Latn ;
-    wdata:q7200235 "IQG06Q02N04" ;
 .
 
 <urn:mdciii:1603:16:368:3:60301>
@@ -2812,7 +2585,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "مركز دربندخان"@ara-Arab ,
         "Markaz Derbendikhan"@eng-Latn ;
-    wdata:q7200235 "IQG06Q03N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:60401>
@@ -2823,7 +2595,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "جنارين"@ara-Arab ,
         "Gnareen"@eng-Latn ;
-    wdata:q7200235 "IQG06Q04N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:60402>
@@ -2834,7 +2605,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "سورداش"@ara-Arab ,
         "Sourdash"@eng-Latn ;
-    wdata:q7200235 "IQG06Q04N02" ;
 .
 
 <urn:mdciii:1603:16:368:3:60501>
@@ -2845,7 +2615,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "بيارة"@ara-Arab ,
         "Beyara"@eng-Latn ;
-    wdata:q7200235 "IQG06Q05N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:60502>
@@ -2856,7 +2625,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "خورمال"@ara-Arab ,
         "Khourmal"@eng-Latn ;
-    wdata:q7200235 "IQG06Q05N02" ;
 .
 
 <urn:mdciii:1603:16:368:3:60503>
@@ -2867,7 +2635,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "مركز حلبجة"@ara-Arab ,
         "Markaz Halabja"@eng-Latn ;
-    wdata:q7200235 "IQG06Q05N03" ;
 .
 
 <urn:mdciii:1603:16:368:3:60504>
@@ -2878,7 +2645,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "شهرزور"@ara-Arab ,
         "Shahrazur"@eng-Latn ;
-    wdata:q7200235 "IQG06Q05N04" ;
 .
 
 <urn:mdciii:1603:16:368:3:60601>
@@ -2889,7 +2655,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "مركز كلار"@ara-Arab ,
         "Markaz Kalar"@eng-Latn ;
-    wdata:q7200235 "IQG06Q06N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:60602>
@@ -2900,7 +2665,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "بيباز"@ara-Arab ,
         "Bebaz"@eng-Latn ;
-    wdata:q7200235 "IQG06Q06N02" ;
 .
 
 <urn:mdciii:1603:16:368:3:60603>
@@ -2911,7 +2675,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "تيلاكو"@ara-Arab ,
         "Tilako"@eng-Latn ;
-    wdata:q7200235 "IQG06Q06N03" ;
 .
 
 <urn:mdciii:1603:16:368:3:60701>
@@ -2922,7 +2685,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "كرمك"@ara-Arab ,
         "Karmak"@eng-Latn ;
-    wdata:q7200235 "IQG06Q07N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:60702>
@@ -2933,7 +2695,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "مركز بنجوين"@ara-Arab ,
         "Markaz Panjwin"@eng-Latn ;
-    wdata:q7200235 "IQG06Q07N02" ;
 .
 
 <urn:mdciii:1603:16:368:3:60801>
@@ -2944,7 +2705,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "هيرو"@ara-Arab ,
         "Hero"@eng-Latn ;
-    wdata:q7200235 "IQG06Q08N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:60802>
@@ -2955,7 +2715,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "ناودشت"@ara-Arab ,
         "Nawdasht"@eng-Latn ;
-    wdata:q7200235 "IQG06Q08N02" ;
 .
 
 <urn:mdciii:1603:16:368:3:60803>
@@ -2966,7 +2725,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "مركز بشدر"@ara-Arab ,
         "Markaz Pshdar"@eng-Latn ;
-    wdata:q7200235 "IQG06Q08N03" ;
 .
 
 <urn:mdciii:1603:16:368:3:60901>
@@ -2977,7 +2735,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "ميركه"@ara-Arab ,
         "Mirka"@eng-Latn ;
-    wdata:q7200235 "IQG06Q09N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:60902>
@@ -2988,7 +2745,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "مركز رانية"@ara-Arab ,
         "Markaz Rania"@eng-Latn ;
-    wdata:q7200235 "IQG06Q09N02" ;
 .
 
 <urn:mdciii:1603:16:368:3:60903>
@@ -2999,7 +2755,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "بتوانه"@ara-Arab ,
         "Bitwana"@eng-Latn ;
-    wdata:q7200235 "IQG06Q09N03" ;
 .
 
 <urn:mdciii:1603:16:368:3:61001>
@@ -3010,7 +2765,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "سروجك"@ara-Arab ,
         "Saruchik"@eng-Latn ;
-    wdata:q7200235 "IQG06Q10N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:61002>
@@ -3021,7 +2775,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "مركز شهربازار"@ara-Arab ,
         "Markaz Sharbazher"@eng-Latn ;
-    wdata:q7200235 "IQG06Q10N02" ;
 .
 
 <urn:mdciii:1603:16:368:3:61003>
@@ -3032,7 +2785,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "سويل"@ara-Arab ,
         "Siwail"@eng-Latn ;
-    wdata:q7200235 "IQG06Q10N03" ;
 .
 
 <urn:mdciii:1603:16:368:3:61004>
@@ -3043,7 +2795,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "ماوت"@ara-Arab ,
         "Mawat"@eng-Latn ;
-    wdata:q7200235 "IQG06Q10N04" ;
 .
 
 <urn:mdciii:1603:16:368:3:70101>
@@ -3054,7 +2805,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "القاسم"@ara-Arab ,
         "Al-Qasim"@eng-Latn ;
-    wdata:q7200235 "IQG07Q01N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:70102>
@@ -3065,7 +2815,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "الشوملي"@ara-Arab ,
         "Al-Shomaly"@eng-Latn ;
-    wdata:q7200235 "IQG07Q01N02" ;
 .
 
 <urn:mdciii:1603:16:368:3:70103>
@@ -3076,7 +2825,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "المدحتية"@ara-Arab ,
         "Al-Madhatiya"@eng-Latn ;
-    wdata:q7200235 "IQG07Q01N03" ;
 .
 
 <urn:mdciii:1603:16:368:3:70201>
@@ -3087,7 +2835,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "الكفل"@ara-Arab ,
         "Al-Kifil"@eng-Latn ;
-    wdata:q7200235 "IQG07Q02N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:70202>
@@ -3098,7 +2845,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "ابي غرق"@ara-Arab ,
         "Abi Gharaq"@eng-Latn ;
-    wdata:q7200235 "IQG07Q02N02" ;
 .
 
 <urn:mdciii:1603:16:368:3:70203>
@@ -3109,7 +2855,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "مركز الحلة"@ara-Arab ,
         "Markaz Al-Hilla"@eng-Latn ;
-    wdata:q7200235 "IQG07Q02N03" ;
 .
 
 <urn:mdciii:1603:16:368:3:70301>
@@ -3120,7 +2865,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "مركز المحاويل"@ara-Arab ,
         "Markaz Al-Mahawil"@eng-Latn ;
-    wdata:q7200235 "IQG07Q03N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:70302>
@@ -3131,7 +2875,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "الامام"@ara-Arab ,
         "Al-Emam"@eng-Latn ;
-    wdata:q7200235 "IQG07Q03N02" ;
 .
 
 <urn:mdciii:1603:16:368:3:70303>
@@ -3142,7 +2885,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "المشروع"@ara-Arab ,
         "Al-Mashroo"@eng-Latn ;
-    wdata:q7200235 "IQG07Q03N03" ;
 .
 
 <urn:mdciii:1603:16:368:3:70401>
@@ -3153,7 +2895,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "جرف الصخر"@ara-Arab ,
         "Jurf Al-Sakhar"@eng-Latn ;
-    wdata:q7200235 "IQG07Q04N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:70402>
@@ -3164,7 +2905,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "الاسكندرية"@ara-Arab ,
         "Al-Iskandaria"@eng-Latn ;
-    wdata:q7200235 "IQG07Q04N02" ;
 .
 
 <urn:mdciii:1603:16:368:3:80101>
@@ -3175,7 +2915,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "مركز الاعظمية"@ara-Arab ,
         "Markaz Al-Adhamiya"@eng-Latn ;
-    wdata:q7200235 "IQG08Q01N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:80102>
@@ -3186,7 +2925,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "الفحامة"@ara-Arab ,
         "Al-Fahama"@eng-Latn ;
-    wdata:q7200235 "IQG08Q01N02" ;
 .
 
 <urn:mdciii:1603:16:368:3:80103>
@@ -3197,7 +2935,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "الراشدية"@ara-Arab ,
         "Al-Rashdia"@eng-Latn ;
-    wdata:q7200235 "IQG08Q01N03" ;
 .
 
 <urn:mdciii:1603:16:368:3:80201>
@@ -3208,7 +2945,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "مركز الكاظمية"@ara-Arab ,
         "Markaz Al-Kadhimiya"@eng-Latn ;
-    wdata:q7200235 "IQG08Q02N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:80202>
@@ -3219,7 +2955,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "ابي غريب"@ara-Arab ,
         "Abu Ghraib"@eng-Latn ;
-    wdata:q7200235 "IQG08Q02N02" ;
 .
 
 <urn:mdciii:1603:16:368:3:80203>
@@ -3230,7 +2965,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "ذات السلاسل"@ara-Arab ,
         "That al Salasil"@eng-Latn ;
-    wdata:q7200235 "IQG08Q02N03" ;
 .
 
 <urn:mdciii:1603:16:368:3:80204>
@@ -3241,7 +2975,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "الطارمية"@ara-Arab ,
         "Al-Tarmiya"@eng-Latn ;
-    wdata:q7200235 "IQG08Q02N04" ;
 .
 
 <urn:mdciii:1603:16:368:3:80205>
@@ -3252,7 +2985,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "التاجي"@ara-Arab ,
         "Al-Taji"@eng-Latn ;
-    wdata:q7200235 "IQG08Q02N05" ;
 .
 
 <urn:mdciii:1603:16:368:3:80301>
@@ -3263,7 +2995,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "المأمون"@ara-Arab ,
         "Al-Mamoon"@eng-Latn ;
-    wdata:q7200235 "IQG08Q03N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:80302>
@@ -3274,7 +3005,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "مركز الكرخ"@ara-Arab ,
         "Markaz Al-Karkh"@eng-Latn ;
-    wdata:q7200235 "IQG08Q03N02" ;
 .
 
 <urn:mdciii:1603:16:368:3:80303>
@@ -3285,7 +3015,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "المنصور"@ara-Arab ,
         "Al-Mansour"@eng-Latn ;
-    wdata:q7200235 "IQG08Q03N03" ;
 .
 
 <urn:mdciii:1603:16:368:3:80401>
@@ -3296,7 +3025,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "مركز المدائن"@ara-Arab ,
         "Markaz Al-Mada'in"@eng-Latn ;
-    wdata:q7200235 "IQG08Q04N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:80402>
@@ -3307,7 +3035,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "الجسر"@ara-Arab ,
         "Al-Jisr"@eng-Latn ;
-    wdata:q7200235 "IQG08Q04N02" ;
 .
 
 <urn:mdciii:1603:16:368:3:80403>
@@ -3318,7 +3045,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "الوحدة"@ara-Arab ,
         "Al-Wihda"@eng-Latn ;
-    wdata:q7200235 "IQG08Q04N03" ;
 .
 
 <urn:mdciii:1603:16:368:3:80501>
@@ -3329,7 +3055,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "مركز المحمودية"@ara-Arab ,
         "Markaz Al-Mahmoudiya"@eng-Latn ;
-    wdata:q7200235 "IQG08Q05N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:80502>
@@ -3340,7 +3065,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "الرشيد"@ara-Arab ,
         "Al-Rasheed"@eng-Latn ;
-    wdata:q7200235 "IQG08Q05N02" ;
 .
 
 <urn:mdciii:1603:16:368:3:80503>
@@ -3351,7 +3075,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "اللطيفية"@ara-Arab ,
         "Al-Latifya"@eng-Latn ;
-    wdata:q7200235 "IQG08Q05N03" ;
 .
 
 <urn:mdciii:1603:16:368:3:80504>
@@ -3362,7 +3085,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "اليوسفية"@ara-Arab ,
         "Al-Yousifya"@eng-Latn ;
-    wdata:q7200235 "IQG08Q05N04" ;
 .
 
 <urn:mdciii:1603:16:368:3:80601>
@@ -3373,7 +3095,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "الكرادة الشرقية"@ara-Arab ,
         "Al-Karrada Al-Sharqia"@eng-Latn ;
-    wdata:q7200235 "IQG08Q06N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:80602>
@@ -3384,7 +3105,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "بغداد الجديدة"@ara-Arab ,
         "Baghdad Al-Jedeeda"@eng-Latn ;
-    wdata:q7200235 "IQG08Q06N02" ;
 .
 
 <urn:mdciii:1603:16:368:3:80701>
@@ -3395,7 +3115,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "مركز الثورة"@ara-Arab ,
         "Markaz Al-Thawra"@eng-Latn ;
-    wdata:q7200235 "IQG08Q07N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:90101>
@@ -3406,7 +3125,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "برواري بالا"@ara-Arab ,
         "Barwari Bala"@eng-Latn ;
-    wdata:q7200235 "IQG09Q01N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:90102>
@@ -3417,7 +3135,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "مركز العمادية"@ara-Arab ,
         "Markaz Al-Amadiya"@eng-Latn ;
-    wdata:q7200235 "IQG09Q01N02" ;
 .
 
 <urn:mdciii:1603:16:368:3:90103>
@@ -3428,7 +3145,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "نروة ريكان"@ara-Arab ,
         "Nerwa Rekan"@eng-Latn ;
-    wdata:q7200235 "IQG09Q01N03" ;
 .
 
 <urn:mdciii:1603:16:368:3:90104>
@@ -3439,7 +3155,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "سرسنك"@ara-Arab ,
         "Sarsank"@eng-Latn ;
-    wdata:q7200235 "IQG09Q01N04" ;
 .
 
 <urn:mdciii:1603:16:368:3:90201>
@@ -3450,7 +3165,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "الدوسكي"@ara-Arab ,
         "Al-Duski"@eng-Latn ;
-    wdata:q7200235 "IQG09Q02N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:90202>
@@ -3461,7 +3175,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "مركز دهوك"@ara-Arab ,
         "Markaz Duhok"@eng-Latn ;
-    wdata:q7200235 "IQG09Q02N02" ;
 .
 
 <urn:mdciii:1603:16:368:3:90203>
@@ -3472,7 +3185,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "زاويتة"@ara-Arab ,
         "Zawita"@eng-Latn ;
-    wdata:q7200235 "IQG09Q02N03" ;
 .
 
 <urn:mdciii:1603:16:368:3:90301>
@@ -3483,7 +3195,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "باتيل"@ara-Arab ,
         "Bateel"@eng-Latn ;
-    wdata:q7200235 "IQG09Q03N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:90302>
@@ -3494,7 +3205,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "فايدة"@ara-Arab ,
         "Fayde"@eng-Latn ;
-    wdata:q7200235 "IQG09Q03N02" ;
 .
 
 <urn:mdciii:1603:16:368:3:90303>
@@ -3505,7 +3215,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "مركز سميل"@ara-Arab ,
         "Markaz Sumail"@eng-Latn ;
-    wdata:q7200235 "IQG09Q03N03" ;
 .
 
 <urn:mdciii:1603:16:368:3:90304>
@@ -3516,7 +3225,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "سندي"@ara-Arab ,
         "Sindi"@eng-Latn ;
-    wdata:q7200235 "IQG09Q03N04" ;
 .
 
 <urn:mdciii:1603:16:368:3:90401>
@@ -3527,7 +3235,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "مركز زاخو"@ara-Arab ,
         "Markaz Zakho"@eng-Latn ;
-    wdata:q7200235 "IQG09Q04N01" ;
 .
 
 <urn:mdciii:1603:16:368:3:90402>
@@ -3538,7 +3245,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "باتيفا"@ara-Arab ,
         "Batifa"@eng-Latn ;
-    wdata:q7200235 "IQG09Q04N02" ;
 .
 
 <urn:mdciii:1603:16:368:3:90403>
@@ -3549,6 +3255,5 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "دركار"@ara-Arab ,
         "Dercar"@eng-Latn ;
-    wdata:q7200235 "IQG09Q04N03" ;
 .
 

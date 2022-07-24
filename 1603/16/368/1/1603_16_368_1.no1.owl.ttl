@@ -25,7 +25,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "الانبار"@ara-Arab ,
         "Al-Anbar"@eng-Latn ;
-    wdata:q7200235 "IQG01" ;
+    wdata:Q7200235 "IQG01" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -66,7 +66,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "ديالى"@ara-Arab ,
         "Diyala"@eng-Latn ;
-    wdata:q7200235 "IQG10" ;
+    wdata:Q7200235 "IQG10" ;
 .
 
 <urn:mdciii:1603:16:368:1:11>
@@ -79,7 +79,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "اربيل"@ara-Arab ,
         "Erbil"@eng-Latn ;
-    wdata:q7200235 "IQG11" ;
+    wdata:Q7200235 "IQG11" ;
 .
 
 <urn:mdciii:1603:16:368:1:12>
@@ -92,7 +92,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "كربلاء"@ara-Arab ,
         "Kerbala"@eng-Latn ;
-    wdata:q7200235 "IQG12" ;
+    wdata:Q7200235 "IQG12" ;
 .
 
 <urn:mdciii:1603:16:368:1:13>
@@ -105,7 +105,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "كركوك"@ara-Arab ,
         "Kirkuk"@eng-Latn ;
-    wdata:q7200235 "IQG13" ;
+    wdata:Q7200235 "IQG13" ;
 .
 
 <urn:mdciii:1603:16:368:1:14>
@@ -118,7 +118,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "ميسان"@ara-Arab ,
         "Maysan"@eng-Latn ;
-    wdata:q7200235 "IQG14" ;
+    wdata:Q7200235 "IQG14" ;
 .
 
 <urn:mdciii:1603:16:368:1:15>
@@ -131,7 +131,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "نينوى"@ara-Arab ,
         "Ninewa"@eng-Latn ;
-    wdata:q7200235 "IQG15" ;
+    wdata:Q7200235 "IQG15" ;
 .
 
 <urn:mdciii:1603:16:368:1:16>
@@ -144,7 +144,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "صلاح الدين"@ara-Arab ,
         "Salah Al-Din"@eng-Latn ;
-    wdata:q7200235 "IQG16" ;
+    wdata:Q7200235 "IQG16" ;
 .
 
 <urn:mdciii:1603:16:368:1:17>
@@ -157,7 +157,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "ذي قار"@ara-Arab ,
         "Thi Qar"@eng-Latn ;
-    wdata:q7200235 "IQG17" ;
+    wdata:Q7200235 "IQG17" ;
 .
 
 <urn:mdciii:1603:16:368:1:18>
@@ -170,7 +170,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "واسط"@ara-Arab ,
         "Wassit"@eng-Latn ;
-    wdata:q7200235 "IQG18" ;
+    wdata:Q7200235 "IQG18" ;
 .
 
 <urn:mdciii:1603:16:368:1:2>
@@ -183,7 +183,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "البصرة"@ara-Arab ,
         "Al-Basrah"@eng-Latn ;
-    wdata:q7200235 "IQG02" ;
+    wdata:Q7200235 "IQG02" ;
 .
 
 <urn:mdciii:1603:16:368:1:3>
@@ -196,7 +196,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "المثنى"@ara-Arab ,
         "Al-Muthanna"@eng-Latn ;
-    wdata:q7200235 "IQG03" ;
+    wdata:Q7200235 "IQG03" ;
 .
 
 <urn:mdciii:1603:16:368:1:4>
@@ -209,7 +209,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "النجف"@ara-Arab ,
         "Al-Najaf"@eng-Latn ;
-    wdata:q7200235 "IQG04" ;
+    wdata:Q7200235 "IQG04" ;
 .
 
 <urn:mdciii:1603:16:368:1:5>
@@ -222,7 +222,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "القادسية"@ara-Arab ,
         "Al-Qadissiya"@eng-Latn ;
-    wdata:q7200235 "IQG05" ;
+    wdata:Q7200235 "IQG05" ;
 .
 
 <urn:mdciii:1603:16:368:1:6>
@@ -235,7 +235,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "السليمانية"@ara-Arab ,
         "Al-Sulaymaniyah"@eng-Latn ;
-    wdata:q7200235 "IQG06" ;
+    wdata:Q7200235 "IQG06" ;
 .
 
 <urn:mdciii:1603:16:368:1:7>
@@ -248,7 +248,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "بابل"@ara-Arab ,
         "Babil"@eng-Latn ;
-    wdata:q7200235 "IQG07" ;
+    wdata:Q7200235 "IQG07" ;
 .
 
 <urn:mdciii:1603:16:368:1:8>
@@ -261,7 +261,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "بغداد"@ara-Arab ,
         "Baghdad"@eng-Latn ;
-    wdata:q7200235 "IQG08" ;
+    wdata:Q7200235 "IQG08" ;
 .
 
 <urn:mdciii:1603:16:368:1:9>
@@ -274,6 +274,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "دهوك"@ara-Arab ,
         "Duhok"@eng-Latn ;
-    wdata:q7200235 "IQG09" ;
+    wdata:Q7200235 "IQG09" ;
 .
 
